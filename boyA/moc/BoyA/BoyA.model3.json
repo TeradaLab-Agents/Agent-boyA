@@ -1,0 +1,386 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "BoyA.moc3",
+		"Textures": [
+			"BoyA.8192/texture_00.png"
+		],
+		"Physics": "BoyA.physics3.json",
+		"DisplayInfo": "BoyA.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Anger_01",
+				"File": "../../exp/Anger/Anger_01.exp3.json"
+			},
+			{
+				"Name": "Anger_02",
+				"File": "../../exp/Anger/Anger_02.exp3.json"
+			},
+			{
+				"Name": "Anger_03",
+				"File": "../../exp/Anger/Anger_03.exp3.json"
+			},
+			{
+				"Name": "Anger_04",
+				"File": "../../exp/Anger/Anger_04.exp3.json"
+			},
+			{
+				"Name": "Anger_05",
+				"File": "../../exp/Anger/Anger_05.exp3.json"
+			},
+			{
+				"Name": "Anger_06",
+				"File": "../../exp/Anger/Anger_06.exp3.json"
+			},
+			{
+				"Name": "Anger_07",
+				"File": "../../exp/Anger/Anger_07.exp3.json"
+			},
+			{
+				"Name": "Anger_08",
+				"File": "../../exp/Anger/Anger_08.exp3.json"
+			},
+			{
+				"Name": "Anger_09",
+				"File": "../../exp/Anger/Anger_09.exp3.json"
+			},
+			{
+				"Name": "Anger_10",
+				"File": "../../exp/Anger/Anger_10.exp3.json"
+			},
+			{
+				"Name": "Disgust_01",
+				"File": "../../exp/Disgust/Disgust_01.exp3.json"
+			},
+			{
+				"Name": "Disgust_02",
+				"File": "../../exp/Disgust/Disgust_02.exp3.json"
+			},
+			{
+				"Name": "Disgust_03",
+				"File": "../../exp/Disgust/Disgust_03.exp3.json"
+			},
+			{
+				"Name": "Disgust_04",
+				"File": "../../exp/Disgust/Disgust_04.exp3.json"
+			},
+			{
+				"Name": "Disgust_05",
+				"File": "../../exp/Disgust/Disgust_05.exp3.json"
+			},
+			{
+				"Name": "Disgust_06",
+				"File": "../../exp/Disgust/Disgust_06.exp3.json"
+			},
+			{
+				"Name": "Disgust_07",
+				"File": "../../exp/Disgust/Disgust_07.exp3.json"
+			},
+			{
+				"Name": "Disgust_08",
+				"File": "../../exp/Disgust/Disgust_08.exp3.json"
+			},
+			{
+				"Name": "Disgust_09",
+				"File": "../../exp/Disgust/Disgust_09.exp3.json"
+			},
+			{
+				"Name": "Disgust_10",
+				"File": "../../exp/Disgust/Disgust_10.exp3.json"
+			},
+			{
+				"Name": "Fear_01",
+				"File": "../../exp/Fear/Fear_01.exp3.json"
+			},
+			{
+				"Name": "Fear_02",
+				"File": "../../exp/Fear/Fear_02.exp3.json"
+			},
+			{
+				"Name": "Fear_03",
+				"File": "../../exp/Fear/Fear_03.exp3.json"
+			},
+			{
+				"Name": "Fear_04",
+				"File": "../../exp/Fear/Fear_04.exp3.json"
+			},
+			{
+				"Name": "Fear_05",
+				"File": "../../exp/Fear/Fear_05.exp3.json"
+			},
+			{
+				"Name": "Fear_06",
+				"File": "../../exp/Fear/Fear_06.exp3.json"
+			},
+			{
+				"Name": "Fear_07",
+				"File": "../../exp/Fear/Fear_07.exp3.json"
+			},
+			{
+				"Name": "Fear_08",
+				"File": "../../exp/Fear/Fear_08.exp3.json"
+			},
+			{
+				"Name": "Fear_09",
+				"File": "../../exp/Fear/Fear_09.exp3.json"
+			},
+			{
+				"Name": "Fear_10",
+				"File": "../../exp/Fear/Fear_10.exp3.json"
+			},
+			{
+				"Name": "Joy_01",
+				"File": "../../exp/Joy/Joy_01.exp3.json"
+			},
+			{
+				"Name": "Joy_02",
+				"File": "../../exp/Joy/Joy_02.exp3.json"
+			},
+			{
+				"Name": "Joy_03",
+				"File": "../../exp/Joy/Joy_03.exp3.json"
+			},
+			{
+				"Name": "Joy_04",
+				"File": "../../exp/Joy/Joy_04.exp3.json"
+			},
+			{
+				"Name": "Joy_05",
+				"File": "../../exp/Joy/Joy_05.exp3.json"
+			},
+			{
+				"Name": "Joy_06",
+				"File": "../../exp/Joy/Joy_06.exp3.json"
+			},
+			{
+				"Name": "Joy_07",
+				"File": "../../exp/Joy/Joy_07.exp3.json"
+			},
+			{
+				"Name": "Joy_08",
+				"File": "../../exp/Joy/Joy_08.exp3.json"
+			},
+			{
+				"Name": "Joy_09",
+				"File": "../../exp/Joy/Joy_09.exp3.json"
+			},
+			{
+				"Name": "Joy_10",
+				"File": "../../exp/Joy/Joy_10.exp3.json"
+			},
+			{
+				"Name": "Regret_01",
+				"File": "../../exp/Regret/Regret_01.exp3.json"
+			},
+			{
+				"Name": "Regret_02",
+				"File": "../../exp/Regret/Regret_02.exp3.json"
+			},
+			{
+				"Name": "Regret_03",
+				"File": "../../exp/Regret/Regret_03.exp3.json"
+			},
+			{
+				"Name": "Regret_04",
+				"File": "../../exp/Regret/Regret_04.exp3.json"
+			},
+			{
+				"Name": "Regret_05",
+				"File": "../../exp/Regret/Regret_05.exp3.json"
+			},
+			{
+				"Name": "Regret_06",
+				"File": "../../exp/Regret/Regret_06.exp3.json"
+			},
+			{
+				"Name": "Regret_07",
+				"File": "../../exp/Regret/Regret_07.exp3.json"
+			},
+			{
+				"Name": "Regret_08",
+				"File": "../../exp/Regret/Regret_08.exp3.json"
+			},
+			{
+				"Name": "Regret_09",
+				"File": "../../exp/Regret/Regret_09.exp3.json"
+			},
+			{
+				"Name": "Regret_10",
+				"File": "../../exp/Regret/Regret_10.exp3.json"
+			},
+			{
+				"Name": "Sad_01",
+				"File": "../../exp/Sad/Sad_01.exp3.json"
+			},
+			{
+				"Name": "Sad_02",
+				"File": "../../exp/Sad/Sad_02.exp3.json"
+			},
+			{
+				"Name": "Sad_03",
+				"File": "../../exp/Sad/Sad_03.exp3.json"
+			},
+			{
+				"Name": "Sad_04",
+				"File": "../../exp/Sad/Sad_04.exp3.json"
+			},
+			{
+				"Name": "Sad_05",
+				"File": "../../exp/Sad/Sad_05.exp3.json"
+			},
+			{
+				"Name": "Sad_06",
+				"File": "../../exp/Sad/Sad_06.exp3.json"
+			},
+			{
+				"Name": "Sad_07",
+				"File": "../../exp/Sad/Sad_07.exp3.json"
+			},
+			{
+				"Name": "Sad_08",
+				"File": "../../exp/Sad/Sad_08.exp3.json"
+			},
+			{
+				"Name": "Sad_09",
+				"File": "../../exp/Sad/Sad_09.exp3.json"
+			},
+			{
+				"Name": "Sad_10",
+				"File": "../../exp/Sad/Sad_10.exp3.json"
+			},
+			{
+				"Name": "Surprised_01",
+				"File": "../../exp/Surprised/Surprised_01.exp3.json"
+			},
+			{
+				"Name": "Surprised_02",
+				"File": "../../exp/Surprised/Surprised_02.exp3.json"
+			},
+			{
+				"Name": "Surprised_03",
+				"File": "../../exp/Surprised/Surprised_03.exp3.json"
+			},
+			{
+				"Name": "Surprised_04",
+				"File": "../../exp/Surprised/Surprised_04.exp3.json"
+			},
+			{
+				"Name": "Surprised_05",
+				"File": "../../exp/Surprised/Surprised_05.exp3.json"
+			},
+			{
+				"Name": "Surprised_06",
+				"File": "../../exp/Surprised/Surprised_06.exp3.json"
+			},
+			{
+				"Name": "Surprised_07",
+				"File": "../../exp/Surprised/Surprised_07.exp3.json"
+			},
+			{
+				"Name": "Surprised_08",
+				"File": "../../exp/Surprised/Surprised_08.exp3.json"
+			},
+			{
+				"Name": "Surprised_09",
+				"File": "../../exp/Surprised/Surprised_09.exp3.json"
+			},
+			{
+				"Name": "Surprised_10",
+				"File": "../../exp/Surprised/Surprised_10.exp3.json"
+			},
+			{
+				"Name": "Affiliation_01",
+				"File": "../../exp/Affiliation/Affiliation_01.exp3.json"
+			},
+			{
+				"Name": "Affiliation_10",
+				"File": "../../exp/Affiliation/Affiliation_10.exp3.json"
+			},
+			{
+				"Name": "Affiliation_05",
+				"File": "../../exp/Affiliation/Affiliation_05.exp3.json"
+			},
+			{
+				"Name": "Affiliation_02",
+				"File": "../../exp/Affiliation/Affiliation_02.exp3.json"
+			},
+			{
+				"Name": "Affiliation_03",
+				"File": "../../exp/Affiliation/Affiliation_03.exp3.json"
+			},
+			{
+				"Name": "Affiliation_04",
+				"File": "../../exp/Affiliation/Affiliation_04.exp3.json"
+			},
+			{
+				"Name": "Affiliation_06",
+				"File": "../../exp/Affiliation/Affiliation_06.exp3.json"
+			},
+			{
+				"Name": "Affiliation_07",
+				"File": "../../exp/Affiliation/Affiliation_07.exp3.json"
+			},
+			{
+				"Name": "Affiliation_08",
+				"File": "../../exp/Affiliation/Affiliation_08.exp3.json"
+			},
+			{
+				"Name": "Affiliation_09",
+				"File": "../../exp/Affiliation/Affiliation_09.exp3.json"
+			},
+			{
+				"Name": "Dominance_01",
+				"File": "../../exp/Dominance/Dominance_01.exp3.json"
+			},
+			{
+				"Name": "Dominance_02",
+				"File": "../../exp/Dominance/Dominance_02.exp3.json"
+			},
+			{
+				"Name": "Dominance_03",
+				"File": "../../exp/Dominance/Dominance_03.exp3.json"
+			},
+			{
+				"Name": "Dominance_04",
+				"File": "../../exp/Dominance/Dominance_04.exp3.json"
+			},
+			{
+				"Name": "Dominance_05",
+				"File": "../../exp/Dominance/Dominance_05.exp3.json"
+			},
+			{
+				"Name": "Dominance_06",
+				"File": "../../exp/Dominance/Dominance_06.exp3.json"
+			},
+			{
+				"Name": "Dominance_07",
+				"File": "../../exp/Dominance/Dominance_07.exp3.json"
+			},
+			{
+				"Name": "Dominance_08",
+				"File": "../../exp/Dominance/Dominance_08.exp3.json"
+			},
+			{
+				"Name": "Dominance_09",
+				"File": "../../exp/Dominance/Dominance_09.exp3.json"
+			},
+			{
+				"Name": "Dominance_10",
+				"File": "../../exp/Dominance/Dominance_10.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
