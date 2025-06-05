@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "BoyA_1.moc3",
 		"Textures": [
-			"BoyA_1.8192/texture_01.png"
+			"BoyA_1.8192/texture_00.png"
 		],
 		"Physics": "BoyA_1.physics3.json",
 		"DisplayInfo": "BoyA_1.cdi3.json",
